@@ -30,5 +30,3 @@ First made the kernel before you can make the image. To make the boot img we can
 The location for the image is this: "tools/boot60.img". You can flash it with fastboot.
 
 This readme is fully based on what is on olrak2 repo and only adapted to Honor4c/Gplaymini. Many thanks to him.
-
-
